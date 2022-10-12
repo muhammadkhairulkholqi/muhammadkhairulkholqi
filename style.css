@@ -1,0 +1,55 @@
+body{
+  background-color: bisque;
+}
+
+.container{
+  width: 420px;
+  height: 700px;
+  background-image: url(skul.jpg);
+  margin: auto;
+  padding: 70px;
+  border-radius: 20px;
+}
+
+.logo-text {
+  font-size: 25px;
+  margin: ;
+  color: black;
+  width: 200px;
+}
+
+ul li {
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  display: inline-block;
+  padding: 15px;
+}
+
+li a:hover:not(.active) {
+  color: red;
+}
+
+ul li a {
+  color: black;
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li img {
+  width: 320PX;
+  height: 300px;
+}
+
+li h2 {
+  width: 330px;
+}
+
+li p {
+  width: 400px;
+}
+
+
+ 

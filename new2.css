@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+
+.container {
+    background-color: peachpuff;
+    height: 450px;
+    width: 1200px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+li a {
+    color: black;
+}
+
+li a:hover:not(.active) {
+    color: darkred;
+}
+
+img {
+    width: 370px;
+}
